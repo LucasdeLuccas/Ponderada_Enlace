@@ -101,5 +101,5 @@ Utilizamos **Código de Hamming (SEC - Single Error Correction)**:
 
 ## 🎥 Demonstração em Vídeo
 
-📹 [Clique aqui para assistir ao vídeo explicativo](https://youtu.be/seu-video-aqui)
+📹 [Clique aqui para assistir ao vídeo explicativo](https://youtu.be/GnptPcwVRS8)
 
